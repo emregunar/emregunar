@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [DataPass](https://github.com/kayrakirimli/42Ticaret)
 
+- :muscle: My strongest skills is **C, Java, SQL, Googling, Data Structures, Operating Systems** and **Googling**  
+
 - 🌱 I’m currently learning **Flutter, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emregunar](https://github.com/emregunar)
