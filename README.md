@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/emregunar](https://github.com/emregunar)
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/14ta8A2ZirSIgnl71bFR-4bPAWAx89DhJ/view?usp=sharing](https://drive.google.com/file/d/14ta8A2ZirSIgnl71bFR-4bPAWAx89DhJ/view?usp=sharing)
+
 - 📫 How to reach me **gunaremre4@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
